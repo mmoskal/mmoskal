@@ -1,16 +1,12 @@
-### Hi there 👋
+## Stuff I (co)did
 
-<!--
-**mmoskal/mmoskal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Nemerle](http://nemerle.org/) programming language
+- [Fx7](https://moskal.me/smt/en.html) SMT solver
+- [vcc](https://github.com/Microsoft/vcc) formal verifier for C
+- [Touch Develop](https://github.com/microsoft/TouchDevelop) IDE for a phone
+- [UF2](https://github.com/microsoft/uf2) file format for flashing embedded devices (used in RP2040)
+- [MakeCode](https://makecode.com) IDE for programming education
+- [Jacdac](https://microsoft.github.io/jacdac-docs/) plug-and-play electronics
+- [DeviceScript](https://microsoft.github.io/devicescript/) TypeScript for IoT
+- [AICI](https://github.com/microsoft/aici) control interface for LLMs
+- and a bunch of [papers](https://moskal.me/papers.html)
