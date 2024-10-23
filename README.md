@@ -9,6 +9,8 @@
 - [Jacdac](https://microsoft.github.io/jacdac-docs/) plug-and-play electronics
 - [DeviceScript](https://microsoft.github.io/devicescript/) TypeScript for IoT
 - [AICI](https://github.com/microsoft/aici) control interface for LLMs
+- [Low-level Guidance](https://github.com/microsoft/llguidance) library for constraining output of LLMs
+- [LLG-TRT](https://github.com/guidance-ai/llgtrt) OpenAI-compatible frontend for TensorRT-LLM with LLGuidance
 
 ## Links
 
