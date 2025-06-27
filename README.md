@@ -15,5 +15,4 @@
 ## Links
 
 - [personal website](https://moskal.me)
-- [work website at Microsoft Research](https://www.microsoft.com/en-us/research/people/mimoskal/)
 - [papers](https://moskal.me/papers.html)
